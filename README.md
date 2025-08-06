@@ -17,7 +17,7 @@ What I found most exciting was turning raw sales data into actionable business s
 - Category distribution across regions
 - Net sales forecasting for 12 months
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
 - Power BI Desktop
 - DAX & Measures
