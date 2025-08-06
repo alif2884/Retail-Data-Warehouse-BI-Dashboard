@@ -1,41 +1,36 @@
-# 📊 Retail Data Warehouse & BI Dashboard
+# Retail BI Dashboard with Power BI 📊
 
-This repository contains an end-to-end BI solution built with Power BI, focused on sales and operations data from a global retailer.
+A complete business intelligence solution built using Power BI, designed to extract insights from international retail sales data.
 
 ## 🧠 Overview
+This was my first complete BI dashboard project where I built a star schema warehouse and used Power BI to explore seasonality, returns, and country-wise logistics performance.
 
-This project was my first full-fledged experience with building an end-to-end BI dashboard using **real-world sales data**. Before this, I had worked with raw data and some dashboards, but this was the first time I built:
+What I found most exciting was turning raw sales data into actionable business stories. The experience helped me think more like a business analyst — working with DAX, data modeling, and building forecasts from scratch.
 
-- A **star-schema data warehouse** from scratch
-- Full integration of PostgreSQL and Excel data
-- Interactive dashboards using **DAX measures** and layered visuals
-- Real-time decision support tools with KPIs and forecasting
+## Features
 
-What I enjoyed most about this project was translating abstract business needs into data-driven visuals. Working on this gave me much more confidence in data storytelling, time-series forecasting, and breaking down business questions into measurable components.
-
-It wasn’t just a technical exercise — it helped me think like a BI analyst.
-
+- Sales trend analysis across books and games
+- Cancellation pattern detection to manage support workload
+- Country-level delivery delay evaluation
+- Return rate vs payment method analysis
+- Discount impact on net sales
+- Category distribution across regions
+- Net sales forecasting for 12 months
 
 ## 🛠 Tech Stack
 
-- **Power BI Desktop**
-- **DAX Measures & Visualizations**
-- PostgreSQL (source schema)
-- Excel (additional data)
-- Data warehouse modeling (Star Schema)
+- Power BI Desktop
+- DAX & Measures
+- Data Warehouse (Star Schema)
 
 ## 📂 Files
 
-- `Project4.pbix`: The interactive Power BI dashboard
-- `Project analytical report.pdf`: Written analysis and business recommendations
-- `Power BI_Project.pdf`: Official project instructions
+- `Project4.pbix` – Power BI Dashboard File
+- `Project analytical report.pdf` – Summary of key findings
+- `Power BI_Project.pdf` – Assignment brief
 
 ## 🚀 How to Use
 
 1. Open `Project4.pbix` in Power BI Desktop.
 2. Navigate between pages to explore insights and forecasts.
 3. Refer to the PDF reports for context and interpretation.
-
-## 🏷 Tags
-
-#PowerBI #RetailAnalytics #DAX #BusinessIntelligence #DataWarehouse #ETL #AcademicProject #SharifUniversity
