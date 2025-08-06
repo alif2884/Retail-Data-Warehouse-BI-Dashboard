@@ -29,7 +29,7 @@ What I found most exciting was turning raw sales data into actionable business s
 - `Project analytical report.pdf` – Summary of key findings
 - `Power BI_Project.pdf` – Assignment brief
 
-## 🚀 How to Use
+## ⚙️ How to Use
 
 1. Open `Project4.pbix` in Power BI Desktop.
 2. Navigate between pages to explore insights and forecasts.
