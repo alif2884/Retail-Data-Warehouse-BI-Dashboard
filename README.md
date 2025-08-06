@@ -7,7 +7,7 @@ This was my first complete BI dashboard project where I built a star schema ware
 
 What I found most exciting was turning raw sales data into actionable business stories. The experience helped me think more like a business analyst — working with DAX, data modeling, and building forecasts from scratch.
 
-## Features
+## 🔎 Features
 
 - Sales trend analysis across books and games
 - Cancellation pattern detection to manage support workload
