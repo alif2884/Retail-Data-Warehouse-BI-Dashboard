@@ -7,6 +7,8 @@ This was my first complete BI dashboard project where I built a star schema ware
 
 What I found most exciting was turning raw sales data into actionable business stories. The experience helped me think more like a business analyst — working with DAX, data modeling, and building forecasts from scratch.
 
+---
+
 ## 🔎 Features
 
 - Sales trend analysis across books and games
@@ -17,11 +19,15 @@ What I found most exciting was turning raw sales data into actionable business s
 - Category distribution across regions
 - Net sales forecasting for 12 months
 
+---
+
 ## 🔧 Technologies / Topics
 
 - Power BI Desktop
 - DAX & Measures
 - Data Warehouse (Star Schema)
+
+---
 
 ## 📂 Files
 
@@ -29,6 +35,7 @@ What I found most exciting was turning raw sales data into actionable business s
 - `Project analytical report.pdf` – Summary of key findings
 - `Power BI_Project.pdf` – Assignment brief
 
+---
 ## ⚙️ How to Use
 
 1. Open `Project4.pbix` in Power BI Desktop.
