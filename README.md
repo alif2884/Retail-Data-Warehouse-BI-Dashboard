@@ -2,21 +2,19 @@
 
 This repository contains an end-to-end BI solution built with Power BI, focused on sales and operations data from a global retailer.
 
-## 🧠 Project Overview
+## 🧠 Overview
 
-Developed as part of a university project at Sharif University of Technology, the dashboard delivers multi-layered analysis for managerial decision-making, based on a structured **star schema** data warehouse built from a relational PostgreSQL database and Excel files.
+This project was my first full-fledged experience with building an end-to-end BI dashboard using **real-world sales data**. Before this, I had worked with raw data and some dashboards, but this was the first time I built:
 
-Key features:
-- **Data Modeling**: Designed and built a star schema with fact and dimension tables
-- **ETL & Integration**: Merged and transformed raw data using Power BI query editor
-- **Analytics**:
-  - Sales seasonality trends (books & games)
-  - Customer support workload analysis via order cancellations
-  - Country-wise delivery performance vs. order volume
-  - Return rates segmented by payment method
-  - Discount effectiveness on net sales
-  - Product category distribution across countries
-  - Forecasting 12-month net sales with confidence intervals
+- A **star-schema data warehouse** from scratch
+- Full integration of PostgreSQL and Excel data
+- Interactive dashboards using **DAX measures** and layered visuals
+- Real-time decision support tools with KPIs and forecasting
+
+What I enjoyed most about this project was translating abstract business needs into data-driven visuals. Working on this gave me much more confidence in data storytelling, time-series forecasting, and breaking down business questions into measurable components.
+
+It wasn’t just a technical exercise — it helped me think like a BI analyst.
+
 
 ## 🛠 Tech Stack
 
